@@ -2,10 +2,6 @@
     "directories": ["https://tinfoil.ultranx.ru", "http://cyrilz87.net/", "https://nx-retro.ghostland.at", "https://nx-saves.ghostland.at"],
     "success": "nsw1"
     "success": "nsw2"
-{
     "headers": ["My-Custom_header: hello", "My-Custom_header2: world"]
-}
-{
     "headers": ["My-Custom_header: hello", "My-Custom_header2: world"]
-}
 }
