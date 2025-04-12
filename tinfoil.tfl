@@ -5,9 +5,5 @@
     "https://nx-retro.ghostland.at",
     "https://nx-saves.ghostland.at"
   ],
-  "success": ["nsw1", "nsw2"],
-  "headers": {
-    "My-Custom_header": "hello",
-    "My-Custom_header2": "world"
-  }
+  "success": ["nsw1", "nsw2"]
 }
