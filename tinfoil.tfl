@@ -1,7 +1,4 @@
 {
-    "locations": [
-        {"url": "https://tinfoil.ultranx.ru", "title": "UltraNX", "action": "add"},
-        {"url": "https://nx-retro.ghostland.at", "title": "Ghost eShop Retro NX", "action": "add"},
-        {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves", "action": "add"}
-    ]
+    "directories": ["https://tinfoil.ultranx.ru", "https://nx-retro.ghostland.at", "https://nx-saves.ghostland.at", "https://a-the.ca"],
+    "success": "motd text here"
 }
