@@ -13,6 +13,6 @@
             "size": 5000
         }
     ],
-    "directories": ["https://ghostlannx.at", "sdmc:/url2", "http://url3"],
-    "success": "motd text here"
+    "directories": ["https://tinfoil.ultranx.ru", "sdmc:/url2", "http://url3"],
+    "success": "VazGar"
 }
