@@ -1,8 +1,4 @@
 {
-    "locations": [
-        {"url": "https://tinfoil.ultranx.ru", "title": "UltraNX"},
-        {"url": "http://cyrilz87.net/", "title": "Egg Fried Rice Shop"},
-        {"url": "https://nx-retro.ghostland.at", "title": "Ghost eShop Retro NX"},
-        {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves"}
-    ]
+    "directories": ["https://tinfoil.ultranx.ru", "http://cyrilz87.net/", "https://nx-retro.ghostland.at", "https://nx-saves.ghostland.at"],
+    "success": "nsw1"
 }
