@@ -1,18 +1,4 @@
 {
-    "files": [
-        {
-            "url": "https://url1",
-            "size": 1000
-        },
-        {
-            "url": "https://url2",
-            "size": 3000
-        },
-        {
-            "url": "https://url3",
-            "size": 5000
-        }
-    ],
-    "directories": ["https://tinfoil.ultranx.ru", "sdmc:/url2", "http://url3"],
+    "directories": ["https://tinfoil.ultranx.ru", "https://", "http://url3"],
     "success": "VazGar"
 }
