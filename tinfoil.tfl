@@ -6,8 +6,8 @@
     "https://nx-saves.ghostland.at"
   ],
   "success": ["nsw1", "nsw2"],
-  "headers": [
-    "My-Custom_header: hello",
-    "My-Custom_header2: world"
-  ]
+  "headers": {
+    "My-Custom_header": "hello",
+    "My-Custom_header2": "world"
+  }
 }
